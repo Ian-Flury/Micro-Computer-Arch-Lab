@@ -1,5 +1,5 @@
 ;*************************************************************************************************
-; Author: John Tadrous
+; Author: Ian Flury, Carson Free
 ; Project: Lab9
 ; Program: 16-bit Caculator
 ; Date Created: March 18, 2017

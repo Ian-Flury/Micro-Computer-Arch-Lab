@@ -1,5 +1,5 @@
 ;*************************************************************************************************
-; Author: John Tadrous
+; Author: Ian Flury, Carson Free
 ; Project: Lab10
 ; Program: Digital Clock with External Interrupt IRQ
 ; Date Created: April 1st, 2017. Modified: May 5, 2019
